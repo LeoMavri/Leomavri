@@ -16,4 +16,4 @@
 
 ## Garbage stats bellow:
 <img align="left" alt="bruh?" src="https://github-readme-stats-pink-seven-82.vercel.app/api?username=LeoMavri&show_icons=true&hide_border=true&count_private=true">
-^This is fucking broken.
+This is fucking broken.
