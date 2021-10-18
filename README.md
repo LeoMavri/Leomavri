@@ -14,6 +14,4 @@
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
 
 
-## Garbage stats bellow:
-<img align="left" alt="bruh?" src="https://github-readme-stats-pink-seven-82.vercel.app/api?username=LeoMavri&show_icons=true&hide_border=true&count_private=true">
-This is fucking broken.
+
