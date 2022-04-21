@@ -9,7 +9,7 @@
 
 - 🔭 Currently working on **The Imperium**
 
-- 📄 Contact me **by DMing me on Discord @ Mavri#0001 :)**
+- 📄 Contact me **by clicking [this](https://discordapp.com/users/721347809667973141/)**
 
 - 📫 Or reach me at **me@mavri.dev**
 
