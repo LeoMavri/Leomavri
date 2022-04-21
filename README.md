@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leomavri" alt="leomavri" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/mavrodinradu" target="blank"><img src="https://img.shields.io/twitter/follow/mavrodinradu?logo=twitter&style=for-the-badge" alt="MavriLeo" /></a> </p>
+<p align="center"> <a href="https://twitter.com/MavriLeo" target="blank"><img src="https://img.shields.io/twitter/follow/MavriLeo?logo=twitter&style=for-the-badge" alt="MavriLeo" /></a> </p>
 
 - 🔭 Currently working on **The Imperium**
 
