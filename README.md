@@ -3,21 +3,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leomavri&label=Profile%20views&color=0e75b6&style=flat" alt="leomavri" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leomavri" alt="leomavri" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leomavri" alt="leomavri" /></a> </p> -->
 
-<p align="center"> <a href="https://twitter.com/MavriLeo" target="blank"><img src="https://img.shields.io/twitter/follow/MavriLeo?logo=twitter&style=for-the-badge" alt="MavriLeo" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/MavriLeo" target="blank"><img src="https://img.shields.io/twitter/follow/MavriLeo?logo=twitter&style=for-the-badge" alt="MavriLeo" /></a> </p> -->
 
-- 🔭 Currently working on **The Imperium**
+- 🔭 Currently working on **F.U.S.E** (patent pending)
 
 - 📄 Contact me **by clicking [this](https://discordapp.com/users/721347809667973141/)**
 
 - 📫 Or reach me at **me@mavri.dev**
 
-- 🌱 I’m currently learning **Redis & Docker**
+- 🌱 I’m currently learning **R & Shiny**
 
 - ⚡ Fun fact **I have 30GBs of node_modules scattered across my drives**
 
-<h3 align="center">Connect with me:</h3>
+<!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mavrodinradu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mavrodinradu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mavri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mavri" height="30" width="40" /></a>
@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leomavri&show_icons=true&locale=en" alt="leomavri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leomavri&" alt="leomavri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leomavri&" alt="leomavri" /></p> -->
