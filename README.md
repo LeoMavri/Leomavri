@@ -48,7 +48,17 @@
 
 ###
 
-<p align="left">- 📚 Applied Computer Science student at [UniTBv](https://mateinfo.unitbv.ro/en/)<br><br>- 💸 Fiverr Slave (aka Freelancer™)<br><br>- 🌱 Currently messing with **Shiny**<br><br>- 🐧 TempleOS is simply superior<br><br>- 📝 [mavri.dev](https://mavri.dev) owns me and all<br><br>- ⚡ my `node_modules` folder contributes to global warming</p>
+- 📚 Applied Computer Science student at [UniTBv](https://mateinfo.unitbv.ro/en/)
+
+- 💸 Fiverr Slave (aka Freelancer™)
+
+- 🌱 Currently messing with **Shiny**
+
+- 🐧 TempleOS is simply superior
+
+- 📝 [mavri.dev](https://mavri.dev) owns me and all
+
+- ⚡ my `node_modules` folder contributes to global warming
 
 ###
 
