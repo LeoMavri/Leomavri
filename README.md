@@ -51,9 +51,10 @@
 
 - 📚 Applied Computer Science student at [UniTBv](https://mateinfo.unitbv.ro/en/)
 
-- 💸 Fiverr Slave (aka Freelancer™)
+<!-- - 💸 Fiverr Slave (aka Freelancer™) - Stopped for like half a year, not sure why I gave it a try again :P -->
+- 💸 Internship enjoyer
 
-- 🌱 Currently messing with **Shiny**
+- 🌱 Currently messing with **GoLang**
 
 - 🐧 TempleOS is simply superior
 
