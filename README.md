@@ -58,7 +58,7 @@
 
 - 🐧 TempleOS is simply superior
 
-- 📝 [mavri.dev](https://mavri.dev) owns me and all
+- 📝 [mavri.dev](https://about.mavri.dev) owns me and all
 
 - ⚡ my `node_modules` folder contributes to global warming
 
